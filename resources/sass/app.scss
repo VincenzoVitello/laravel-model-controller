@@ -1,0 +1,15 @@
+//
+.film_cards_container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.film_card{
+    border: 1px solid black;
+    width: 350px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
